@@ -1,0 +1,9 @@
+body{
+  background-image: url(project_images/DoggoBG.jpg);
+  background-size: cover;
+}
+
+.mainBox{
+  background-color: lightgray;
+  
+}
